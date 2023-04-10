@@ -1,0 +1,73 @@
+hr {
+    width: 1400px;
+    border: 1px solid #0000ff;
+}
+
+#h1osnova {
+    text-align: center;
+    color: #0000FF;
+    font-family: Verdana;
+    font-size: 20pt
+}
+
+h2 {
+    text-align: right;
+    color: #900000;
+    font-family: Verdana;
+    font-size: 16pt
+}
+
+p {
+    text-align: justify;
+    color: #191970;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold
+}
+
+h3 {
+    color: #0000FF;
+    font-size: 14pt;
+    font-family: Arial
+}
+
+#liosnova {
+    color: #800000;
+    font-weight: bold;
+}
+
+#ulosnova {
+    list-style-image: url(../../photos/spisok_1.gif)
+}
+
+#olosnova {
+    list-style-type: upper-roman
+}
+
+#trfon {
+    background-image: url(../../photos/fon9.jpg)
+}
+
+#trstrokafon {
+    background-color: #19C7FC
+}
+
+#blue {
+    color: #0000CC;
+    font-family: Tahoma
+}
+
+#blue_2 {
+    color: #3366CC;
+    font-family: Tahoma
+}
+
+#brown {
+    color: #996633;
+    font-family: Times
+}
+
+#brown_2 {
+    color: #CC6600;
+    font-family: Times
+}

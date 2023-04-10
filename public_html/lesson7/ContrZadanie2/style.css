@@ -1,0 +1,173 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	position: relative;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#shapka {
+	height: 193px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-image: url("Photos/shapka_div.jpg");
+}
+
+#left_menu {
+	background: #CCFFFF;
+	width: 250px;
+	height: 1000px;
+	float: left;
+}
+
+#main {
+	position: relative;
+	background-image: url("Photos/fon9.jpg");
+	width: 650px;
+	height: 1000px;
+	float: left;
+}
+
+.blue {
+	color: #760006;
+	font-family: Tahoma;
+	margin-bottom: 10px;
+	margin-left: 25px
+}
+
+.blue_2 {
+	color: #760006;
+	font-family: Tahoma;
+	margin-bottom: 10px;
+	margin-left: 45px
+}
+
+.brown {
+	color: #760006;
+	font-family: Times;
+	margin-bottom: 10px;
+	margin-left: 25px
+}
+
+.brown_2 {
+	color: #760006;
+	font-family: Times;
+	margin-bottom: 10px;
+	margin-left: 45px
+}
+
+#logo {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+p {
+	text-align: justify;
+	color: #191970;
+	font-family: Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	margin-left: 8px;
+}
+
+h2 {
+	text-align: left;
+	color: #0000FF;
+	font-family: Verdana;
+	font-size: 16pt;
+	margin-left: 8px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	text-align: left;
+	color: #0000FF;
+	font-family: Verdana;
+	font-size: 20pt;
+	margin-left: 8px;
+	margin-bottom: 10px;
+}
+
+#house_1 {
+	border: 2px solid white;
+	position: absolute;
+	top: 300px;
+	left: 10px;
+	width: 250px;
+	height: 181px;
+	background-image: url("Photos/project_1.jpg");
+}
+
+#house_2 {
+	border: 2px solid white;
+	position: absolute;
+	top: 350px;
+	left: 200px;
+	width: 250px;
+	height: 181px;
+	background-image: url("Photos/project_2.jpg");
+}
+
+#house_3 {
+
+	border: 2px solid white;
+	position: absolute;
+	top: 400px;
+	left: 380px;
+	width: 250px;
+	height: 181px;
+	background-image: url("Photos/r-280-1k.jpg");
+}
+
+#house_4 {
+	border: 2px solid white;
+	position: absolute;
+	top: 550px;
+	left: 10px;
+	width: 250px;
+	height: 181px;
+	background-image: url("Photos/b-213-1p.jpg");
+}
+
+#house_5 {
+	border: 2px solid white;
+	position: absolute;
+	top: 600px;
+	left: 200px;
+	width: 250px;
+	height: 181px;
+	background-image: url("Photos/r-265-1p.jpg");
+}
+
+#house_6 {
+
+	border: 2px solid white;
+	position: absolute;
+	top: 650px;
+	left: 380px;
+	width: 250px;
+	height: 181px;
+	background-image: url("Photos/d-152-1d.jpg");
+}
+
+a {
+	color: #760006;
+	/* Цвет обычной ссылки */
+	text-decoration: none;
+	/* Убираем подчёркивание у ссылок */
+}
+
+a:visited {
+	color: #8F8E8E;
+	/* Цвет посещённой ссылки */
+}
+
+a:hover {
+	color: #0075B2;
+	/* Цвет ссылки при наведении */
+	text-decoration: underline;
+	/* Добавляем подчёркивание */
+}

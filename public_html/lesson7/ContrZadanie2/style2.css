@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#conteiner {
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#shapka {
+    height: 193px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-image: url("Photos/shapka_div.jpg");
+}
+
+#left_menu {
+    background: #CCFFFF;
+    width: 250px;
+    height: 800px;
+    float: left;
+}
+
+#blue {
+    color: #760006;
+    font-family: Tahoma;
+    margin-bottom: 10px;
+    margin-left: 25px
+}
+
+#blue_2 {
+    color: #760006;
+    font-family: Tahoma;
+    margin-bottom: 10px;
+    margin-left: 45px
+}
+
+#brown {
+    color: #760006;
+    font-family: Times;
+    margin-bottom: 10px;
+    margin-left: 25px
+}
+
+#brown_2 {
+    color: #760006;
+    font-family: Times;
+    margin-bottom: 10px;
+    margin-left: 45px
+}
+
+#logo {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#main {
+    position: relative;
+    background: #fffff2;
+    width: 650px;
+    height: 800px;
+    float: left;
+}
+
+#divhouse {
+    position: absolute;
+    background: white;
+    width: 300px;
+    margin: 0 auto;
+    float: left;
+}
+
+#divhouse2 {
+    left: 305px;
+    position: absolute;
+    background: white;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#divhouse3 {
+    top: 400px;
+    position: absolute;
+    background: white;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#divhouse4 {
+    top: 400px;
+
+    left: 305px;
+    position: absolute;
+    background: white;
+    width: 300px;
+    margin: 0 auto;
+}
+
+
+
+
+h1 {
+    text-align: left;
+    color: #110f78;
+    font-family: Verdana;
+    font-size: 16pt;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: justify;
+    color: #191970;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+p {
+    text-align: center;
+    color: black;
+}
+
+img {}
+
+#img1 {
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+#pole {
+    height: 60px;
+    background: #e8e6fb;
+}
